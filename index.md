@@ -136,7 +136,8 @@ _____
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/OZgO-2dHqPo)
 
 [Journal Citations Reports](https://jcr.clarivate.com/)    
-- Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor)  [Journal Citation Indicator (JCI)](https://clarivate.com/webofsciencegroup/article/introducing-the-journal-citation-indicator-a-new-field-normalized-measurement-of-journal-citation-impact/) *NEWS FLASH - this is a new field normalized indicator from Clarivate (2021-05-20)*   
+- Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor) and     
+    [Journal Citation Indicator (JCI)](https://clarivate.com/webofsciencegroup/article/introducing-the-journal-citation-indicator-a-new-field-normalized-measurement-of-journal-citation-impact/) *NEWS FLASH - this is a new field normalized indicator from Clarivate (2021-05-20)*   
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about the Journal Impact Factor from Clarivate (the provider of Web of Science)](https://www.youtube.com/watch?v=ulidYM0ap_A&feature=youtu.be)     
 - Based on citation data from Web of Science     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/JsFGP2LFZ48)     
