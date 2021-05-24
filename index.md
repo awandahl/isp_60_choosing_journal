@@ -1,6 +1,6 @@
 ##### This is the [page you are looking at https://awandahl.github.io/isp_60_choosing_journal/](https://awandahl.github.io/isp_60_choosing_journal/)
 
-# This is a support page and *tool box* for the [ISP Webinar: Choosing a journal](https://isp.uu.se/digitalAssets/913/c_913550-l_1-k_a-wandahl.pdf) held at 2021-05-25.       
+# This is a support page and *tool box* for the [ISP Webinar: Choosing a journal]     (https://isp.uu.se/digitalAssets/913/c_913550-l_1-k_a-wandahl.pdf) held at 2021-05-25.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
     
 _____
