@@ -2,9 +2,9 @@
 
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page and *tool box* for the [PhD Workshop: Choosing a journal](https://www.kth.se/biblioteket/kalender/extrainsatt-doktorandworkshop-valja-tidskrift-1.1052127?date=2021-03-19&orgdate=2021-03-12&length=1&orglength=0) held at KTH (zoom) 2021-03-19.       
+## This is a support page and *tool box* for the [ISP Webinar: Choosing a journal](https://isp.uu.se/digitalAssets/913/c_913550-l_1-k_a-wandahl.pdf) held at 2021-05-25.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
-[Greta Quesada Richardson](https://www.kth.se/profile/gretaqr) email: gretaqr@kth.se     
+    
 _____
 
 ## Why should you do this?
@@ -18,7 +18,7 @@ _____
 
 You will eventually arrive to a well motivated decision of a journal where to send your manuscript and you can - with pride - say something like...
 
-*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the KTH library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
+*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC is waived by the publisher, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
 
 
@@ -27,7 +27,7 @@ _____
 
 ### The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
 
-### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors*
+### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors*
 
 
 
@@ -71,7 +71,7 @@ _____
 _____
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
 
-### The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.
+### The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want your articla to be findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.
 
 
 > - Remember that Google Scholar isn't a major bibliographic database even though it's a very common tool for information searching! 
@@ -163,15 +163,8 @@ _____
 
 ### The aim is to check wether the journal you have in mind has any option for Open Access publishing (OA). To publish OA has become the norm and most research funders require that your research results is in the open, for everyone to read.  
 
-- [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
-
-- [<span style="color:red">Publish Open Access - we cover your costs</span>](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
-
-- [KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
-
-- [New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/kth)    
-
-- [cOAlition S Journal Checker Tool](https://journalcheckertool.org/)
+- [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)     
+- [cOAlition S Journal Checker Tool](https://journalcheckertool.org/)     
 
 _____
 ## 5. Check the funders' and journals' Research Data requirements
@@ -240,23 +233,13 @@ _____
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
 _____
-## 7. Publication ethics
 
-"If I have several results on one topic, should I put all the results and submit it to a high impact journal, or separate them into several papers and submit it to standard impact journals? Which one is better for both academic impact and future career development?"
+## 7. Other aspects on your choice of journal
 
-- [Miguel Roig: Avoiding Plagiarism, Self-plagiarism, and Other Questionable Writing Practices: A Guide to Ethical Writing](https://ori.hhs.gov/sites/default/files/plagiarism.pdf)
-- [Nature Materials 2005: The cost of salami slicing](https://www.nature.com/articles/nmat1305)
-
-_____
-## 8. Other aspects on your choice of journal
-
-- KTH policy for publishing
+- Policy for publishing at *your* university
 
 - Publishing tradition at your department
 
 - Your supervisor
 
 - Possibility to suggest peer-reviewers
-
-- [Good read from La Trobe University](https://latrobe.libguides.com/wherepublish/intro)
-
