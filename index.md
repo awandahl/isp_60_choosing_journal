@@ -10,7 +10,7 @@ _____
 - Find the best possible journal for exactly your topic/subject and your audience
 - Find, compare and evaluate several journals in your field
 - Find alternative journals to submit to (in the unlikely event that you are rejected)
-- Find alternative journals that you didn't know of before - just as an orientation
+- Find relevant journals that you didn't know of before - just as an orientation
 - Check time from submission to first decision and publication of the article, as well as the acceptance rate
 - Avoid to submit to a shady publisher  
 
