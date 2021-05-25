@@ -5,7 +5,7 @@
     
 _____
 
-## [What is important to you when choosing a journal?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=0)
+## <span style="color:red">[What is important to you when choosing a journal?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=0)
 _____
 
 ## Why should you do this?
@@ -251,7 +251,7 @@ _____
 _____    
     
     
-## [Have you learned anything? Comments? Reactions?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=1)
+## <span style="color:red">[Have you learnt anything? Comments? Reactions?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=1)
     
 _____    
     
