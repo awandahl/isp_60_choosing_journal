@@ -5,7 +5,7 @@
     
 _____
 
-## <span style="color:red">[What is important to you when choosing a journal?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=0)
+## [<span style="color:red">What is important to you when choosing a journal?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=0)
 _____
 
 ## Why should you do this?
@@ -38,7 +38,7 @@ _____
 ```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```             
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/m0Mf4nUuALo)    
 
-- [<span style="color:red">EdanzJournal Selector</span>](https://en-author-services.edanzgroup.com/journal-selector)     
+- [EdanzJournal Selector</span>](https://en-author-services.edanzgroup.com/journal-selector)     
 ```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use EdanzJournal Selector](https://youtu.be/SFM0gSPv1uA)
 
@@ -81,7 +81,7 @@ _____
 
 ### General databases:
 
-- [<span style="color:red">Web of Science Master Journals List</span>](https://mjl.clarivate.com/home)    
+- [Web of Science Master Journals List</span>](https://mjl.clarivate.com/home)    
 ```Journal's "profile pages" are visible after login```     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List](https://youtu.be/lYa_Ujg_pxA)
 
@@ -133,7 +133,7 @@ _____
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, [JIF](https://en.wikipedia.org/wiki/Impact_factor) and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
 
-[<span style="color:red">CWTS Journal Indicators</span>](https://www.journalindicators.com/) 
+[CWTS Journal Indicators</span>](https://www.journalindicators.com/) 
 - Indicator = [SNIP](https://www.journalindicators.com/methodology)
 - Based on citation data from Scopus and Web of Science    
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/OZgO-2dHqPo)
@@ -145,7 +145,7 @@ _____
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/JsFGP2LFZ48)     
    
 
-[<span style="color:red">Scimago Journal & Country Rank</span>](https://www.scimagojr.com/)
+[Scimago Journal & Country Rank</span>](https://www.scimagojr.com/)
 - Indicator = [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) 
 - Based on citation data from Scopus     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scimago Journal & Country Rank](https://youtu.be/4L3M06hoiCI)
@@ -221,7 +221,7 @@ _____
 
 - [JournalGuide](https://www.journalguide.com/)
 
-- [<span style="color:red">Elsevier Journal Insights</span>](https://journalinsights.elsevier.com/)
+- [Elsevier Journal Insights</span>](https://journalinsights.elsevier.com/)
 
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
@@ -251,7 +251,7 @@ _____
 _____    
     
     
-## <span style="color:red">[Have you learnt anything? Comments? Reactions?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=1)
+## [<span style="color:red">Have you learnt anything? Comments? Reactions?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=1)
     
 _____    
     
