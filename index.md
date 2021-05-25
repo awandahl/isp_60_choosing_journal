@@ -244,3 +244,35 @@ _____
 - Your supervisor
 
 - Possibility to suggest peer-reviewers
+
+## Questions from the audience (before the presentation)
+    
+1.	What are the necessary criteria for choosing a perfect research journal for publishing research article?
+    Ho
+2.	I would like to know the best Journal to publish research work based on Foliar/plant Elemental analysis using X-ray Fluorescence Spectrometry(XRF)
+3.	How best to access journals of choice especially those that are not open to the public?
+4.	How to identify a predator journal?
+5.	How to conduct systematic literature review
+6.	Some journals are more expensive, is it worth it ?
+7.	How to know the impact of a journal before going for it?
+8.	Could you talk about MDPI and whether you consider it predatory? See https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/ 
+9.	I will be happy to learn more from the personal experiences of the presenters.
+10.	I have needed some simulation process like EMTP/ATP.
+11.	How to check if a journal is predatory
+12.	How to choose good journal for publication of research work?
+13.	Can we get the information and  journals related to Lightning, Atmospheric Aerosols, Solar Energy and Atmospheric Sciences including the Climate Change or not
+14.	Are there any fund source that can support for research publication fee? 
+15.	can we prefer the publication of scientific articles on online journals?
+16.	If possible, I would like to see more expreience on how to deal with spam email from predators. 
+17.	What does it take to set up a viable scholarly journal?
+18.	Can u explain about to choose topic that relationship about the topics that we want to find in journals?
+19.	We need the applications to generate the references in the writing of our articles and briefs
+20.	I want to know more human capital development journal and publication related. 
+21.	The topic was essential as there was a problem for postgraduate students to select which.
+22.	How to choose less article publication charge with high impact journals?
+23.	Should we rely so much on IMPACT FACTORS in order to choose a journal for publications?
+24.	Why is choosing journals necessary?
+25.	What are the most popular topics of the journals in this web? 
+26.	I would like to know a publisher best suited  in XRF AND PLANT ANALYSIS 
+27.	I would like to know if after this webinar we shall able according to our topic to choose a journal where we can publish our research work easily ?
+28.	I am very interested in the topic, but my question is related to Labs éequipement. I am évolving in the field of thermal energy. Would you mind helping us to get Labs equipement ? 
