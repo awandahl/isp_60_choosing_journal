@@ -3,7 +3,7 @@
 # This is a support page and *tool box* for the [ISP Webinar: Choosing a journal](https://isp.uu.se/digitalAssets/913/c_913550-l_1-k_a-wandahl.pdf) held at 2021-05-25.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
     
-# [Slides for this session](https://github.com/awandahl/isp_60_choosing_journal/blob/gh-pages/Choosing_a_Journal_ISP_60.pptx)    
+### [Slides for this session](https://github.com/awandahl/isp_60_choosing_journal/blob/gh-pages/Choosing_a_Journal_ISP_60.pptx)    
     
 _____
 
