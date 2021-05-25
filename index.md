@@ -5,6 +5,9 @@
     
 _____
 
+## [What is important to you when choosing a journal?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=0)
+_____
+
 ## Why should you do this?
 
 - Find the best possible journal for exactly your topic/subject and your audience
@@ -245,6 +248,13 @@ _____
 
 - Possibility to suggest peer-reviewers
 
+_____    
+    
+    
+## [Have you learned anything? Comments? Reactions?](https://jamboard.google.com/d/1Zwg3BHC1qlWoTFAklbGeDEpwRpUEbPdTbSy-imk24mw/viewer?f=1)
+    
+_____    
+    
 ## Questions from the audience (before the presentation)
     
 1.	What are the necessary criteria for choosing a perfect research journal for publishing research article?
